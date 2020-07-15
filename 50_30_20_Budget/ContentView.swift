@@ -37,7 +37,7 @@ struct ContentView: View {
                 Section(header: Text("Necessities")){
                     Text("\(self.needs, specifier: "%.2f")")
                 }
-                Section(header: Text("Fun Fund")){
+                Section(header: Text("Disposable income for entertainment")){
                     Text("\(self.wants, specifier: "%.2f")")
                 }
                 Section(header: Text("Savings/Paying off loans, credit cards, etc.")){

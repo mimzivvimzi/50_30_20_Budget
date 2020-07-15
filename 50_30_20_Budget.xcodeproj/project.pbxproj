@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		69742AA424BF26AC0076776A /* Budget.png in Resources */ = {isa = PBXBuildFile; fileRef = 69742AA324BF26AC0076776A /* Budget.png */; };
 		697D9BD62460E10F0020D6FD /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697D9BD52460E10F0020D6FD /* AppDelegate.swift */; };
 		697D9BD82460E10F0020D6FD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697D9BD72460E10F0020D6FD /* SceneDelegate.swift */; };
 		697D9BDA2460E10F0020D6FD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 697D9BD92460E10F0020D6FD /* ContentView.swift */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		69742AA224BF264D0076776A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		69742AA324BF26AC0076776A /* Budget.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Budget.png; sourceTree = "<group>"; };
 		697D9BD22460E10F0020D6FD /* 50_30_20_Budget.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 50_30_20_Budget.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		697D9BD52460E10F0020D6FD /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		697D9BD72460E10F0020D6FD /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -40,6 +43,8 @@
 		697D9BC92460E10F0020D6FD = {
 			isa = PBXGroup;
 			children = (
+				69742AA224BF264D0076776A /* README.md */,
+				69742AA324BF26AC0076776A /* Budget.png */,
 				697D9BD42460E10F0020D6FD /* 50_30_20_Budget */,
 				697D9BD32460E10F0020D6FD /* Products */,
 			);
@@ -133,6 +138,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				69742AA424BF26AC0076776A /* Budget.png in Resources */,
 				697D9BE22460E1130020D6FD /* LaunchScreen.storyboard in Resources */,
 				697D9BDF2460E1130020D6FD /* Preview Assets.xcassets in Resources */,
 				697D9BDC2460E1130020D6FD /* Assets.xcassets in Resources */,
